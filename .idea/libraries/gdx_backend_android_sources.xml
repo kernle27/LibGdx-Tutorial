@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gdx-backend-android-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/libgdx-0.9.8/sources/gdx-backend-android-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libgdx-0.9.8/sources/gdx-backend-gwt-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libgdx-0.9.8/sources/gdx-backend-lwjgl-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libgdx-0.9.8/sources/gdx-openal-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/libgdx-0.9.8/sources/gdx-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
